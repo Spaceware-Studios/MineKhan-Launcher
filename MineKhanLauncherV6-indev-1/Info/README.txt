@@ -3,6 +3,7 @@ Welcome to the MineKhan Launcher, the easiest way to launch just about any versi
 Setup:
 Right-click on the background of your computer. Select "New > New Shortcut." Once created, click "Properties" and set the image to the favicon.ico file. Title the shorcut "MineKhan Launcher V[VERSION NUMBER HERE]
 
+Location of favicon.ico in MKL V6: [PARENT FOLDERS HERE]\MineKhanLauncherV6\Files\Assets\favicon.ico)
 Location of favicon.ico in MKL V5: [PARENT FOLDERS HERE]\MineKhanLauncherV5\Files\favicon.ico)
 Location of favicon.ico in MKL V2-V4 (V2 says V2, V3 says V3, and so on): [PARENT FOLDERS HERE]\MineKhanLauncherV3\Menus\favicon.ico)
 Location of favicon.ico in MKL V1: [PARENT FOLDERS HERE]\MineKhanLauncherV1\favicon.ico
