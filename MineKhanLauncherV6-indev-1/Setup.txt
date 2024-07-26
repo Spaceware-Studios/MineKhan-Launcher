@@ -1,1 +1,1 @@
-See [PARENT FOLDER HERE]\MineKhanLauncherV5\Info\README.txt for info on setting stuff up.
+See Info\README.txt for info on setting stuff up.
