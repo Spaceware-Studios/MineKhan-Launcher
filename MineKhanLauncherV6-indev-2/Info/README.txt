@@ -12,5 +12,5 @@ Installing mods:
 See "Modding.txt".
   
 Credits: 
-SpaceSoldier248 and Karllr for launcher
-Willard, thingMaker, and assorted Khan Academy users for versions (see menu pages for names)
+SpaceSoldier248 (@SpaceSoldier123) and @Karllr for launcher
+Willard (@willard21), thingMaker (@aaaathing), and assorted Khan Academy users for the game (see menu pages for names)
