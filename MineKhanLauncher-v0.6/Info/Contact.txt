@@ -1,0 +1,4 @@
+To suggest features or report bugs for the Launcher, please make an issue on this GitHub repo: https://github.com/Spaceware-Studios/MineKhan-Launcher/issues
+
+To request features or report bugs for MineKhan, please make a post here:
+https://thingmaker.us.eu.org/posts/
