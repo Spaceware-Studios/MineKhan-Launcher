@@ -1,6 +1,6 @@
-Welcome to the MineKhan Launcher, the easiest way to launch just about any version of MineKhan at a moment's notice, even without internet! This project was begun in 2022. It was initially released in late 2023. You are currently using v0.6 of the launcher. This version was released 11/28/2024.
+Welcome to the MineKhan Launcher, the easiest way to launch just about any version of MineKhan at a moment's notice, even without internet! This project was begun in 2022. It was initially released in late 2023. You are currently using v0.6.1 of the launcher. This version was released 2/18/2025.
 
-Setup:
+Shortcut Setup (Optional):
 Right-click on the background of your computer. Select "New > New Shortcut." Once created, click "Properties" and set the image to the favicon.ico file. Title the shorcut "MineKhan Launcher [VERSION NAME]"
 
 Location of favicon.ico in MKL v0.6/V6: [PARENT FOLDER]\MineKhanLauncherV6\Files\Assets\favicon.ico)
