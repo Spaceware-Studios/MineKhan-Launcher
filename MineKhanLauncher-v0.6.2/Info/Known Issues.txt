@@ -1,0 +1,5 @@
+Launcher:
+N/A
+
+thingMaker's Minekhan:
+Beta 1.1.0+: known to crash upon attempting to load a singleplayer world in Firefox. Another error is caused when trying to join a multiplayer world, where it simply will not load. Both of these are only known to happen when using Firefox.
