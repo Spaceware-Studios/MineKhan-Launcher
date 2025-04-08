@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Welcome to the MineKhan Launcher, the easiest way to launch just about any version of MineKhan at a moment's notice, even without internet! This project was begun in 2022. It was initially released in late 2023. You are currently using v0.6.1 of the launcher. This version was completed 2/18/2025 and released 2/21/2025.
+=======
+Welcome to the MineKhan Launcher, the easiest way to launch just about any version of MineKhan at a moment's notice, even without internet! This project was begun in 2022. It was initially released in late 2023. You are currently using v0.6.2.1 of the launcher. This version was released 2/18/2025.
+>>>>>>> Stashed changes
 =======
 Welcome to the MineKhan Launcher, the easiest way to launch just about any version of MineKhan at a moment's notice, even without internet! This project was begun in 2022. It was initially released in late 2023. You are currently using v0.6.2.1 of the launcher. This version was released 2/18/2025.
 >>>>>>> Stashed changes
