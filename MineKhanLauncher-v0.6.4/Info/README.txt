@@ -1,4 +1,4 @@
-Welcome to the MineKhan Launcher, the easiest way to launch just about any version of MineKhan at a moment's notice, even without internet! This project was begun in 2022. It was initially released in late 2023. You are currently using an v0.6.3 of the launcher. This version was released 4/8/2025.
+Welcome to the MineKhan Launcher, the easiest way to play just about any version of MineKhan at a moment's notice, with or without internet! This project, begun in 2022, was initially made available to the public in late 2023. You are currently using v0.6.4, released 7/05/2025.
 
 Shortcut Setup (Optional):
 Right-click on the background of your computer. Select "New > New Shortcut." Once created, click "Properties" and set the image to the favicon.ico file. Title the shorcut "MineKhan Launcher [VERSION]"
@@ -13,4 +13,4 @@ See "Modding.txt".
   
 Credits: 
 SpaceSoldier248 (@SpaceSoldier123) and @Karllr for launcher
-Willard (@willard21), thingMaker (@aaaathing), TNJS (@TechNinja-js), TomMustBe12 (@tommustbe12com) and assorted Khan Academy users for the game (see launcher menus for names)
+Willard (@willard21), thingMaker (@aaaathing), TNJS (@TechNinja-js), TomMustBe12 (@tommustbe12com) and assorted Khan Academy users for the game (credited in Launcher)
