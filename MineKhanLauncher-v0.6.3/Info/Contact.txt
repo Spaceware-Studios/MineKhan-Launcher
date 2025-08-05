@@ -1,4 +1,0 @@
-To report issues or make suggestions for the Launcher, please use the following page on the GitHub repo: https://github.com/Spaceware-Studios/MineKhan-Launcher/issues
-
-If your question is about MineKhan, please create a post here:
-https://thingmaker.us.eu.org/posts/
